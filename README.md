@@ -1,2 +1,2 @@
 # Python-Projects
- Projects made using Python
+Mini projects made using Python
